@@ -2,6 +2,14 @@
 
 I'm a passionate **Sysadmin** and **Junior Python Developer** eager to learn and build cool things. I love solving problems, automating tasks, and seeing how technology can simplify daily life.
 
+### 📫 Connect with me
+
+*   **LinkedIn:** www.linkedin.com/in/jabel-alvarez-acosta
+*   **Email:** jabel.alvarez.acosta@gmail.com
+*   **Website:** www.jabel.tech
+
+Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about tech!
+
 ---
 
 ### ⚙️ My Sysadmin Side
@@ -45,16 +53,6 @@ I'm always looking for new bricks and better ways to build.
 *   **Kubernetes**
 *   **Django**
 *   **Terraform**
-
----
-
-### 📫 Connect with me
-
-*   **LinkedIn:** www.linkedin.com/in/jabel-alvarez-acosta
-*   **Email:** jabel.alvarez.acosta@gmail.com
-*   **Website:** www.jabel.tech
-
-Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about tech!
 
 ---
 
