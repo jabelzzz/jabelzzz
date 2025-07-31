@@ -42,9 +42,9 @@ I'm always looking for new bricks and better ways to build.
 
 ### 🌱 What I'm currently learning or exploring:
 
-*   **[Kubernetes]**
-*   **[Django]**
-*   **[Terraform]**
+*   **Kubernetes**
+*   **Django**
+*   **Terraform**
 
 ---
 
