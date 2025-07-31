@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there! I'm Jabel 👋
 
-<!--
-**jabelzzz/jabelzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Sysadmin** and **Junior Python Developer** eager to learn and build cool things. I love solving problems, automating tasks, and seeing how technology can simplify daily life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ My Sysadmin Side
+
+As a Sysadmin, I'm the "architect" and "gardener" of systems. I ensure everything runs smoothly, like an **orchestra conductor** coordinating all instruments so the music sounds perfect.
+
+*   **Server Management:** Linux & Windows are my Code Playground.
+*   **Networking:** Understanding how systems communicate.
+*   **Monitoring:** Keeping an eye on the health of the infrastructure.
+*   **Security:** Protecting systems from potential threats.
+
+I love optimizing, debugging, and maintaining stable environments.
+
+---
+
+### 🐍 My Python World
+
+As a Python developer, I appreciate the language's versatility. I see it as a **digital Swiss Army knife**:
+
+*   **Automation:** From simple scripts for repetitive tasks to more complex workflows.
+*   **Backend Development:** Exploring frameworks and building APIs.
+*   **Data Analysis:** I enjoy extracting valuable insights from data.
+
+My projects often focus on making life easier, whether for myself or for others.
+
+---
+
+### 💡 My Philosophy (with a touch of analogy)
+
+I like to think of programming and system administration as building with **LEGO bricks**:
+
+*   **Python:** These are the **variously colored bricks** I can use to build almost anything, from a house to a robot.
+*   **Sysadmin:** This is the **instruction manual and the maintenance of the play area**, ensuring the bricks are organized, the floor is clean, and the constructions are stable.
+
+I'm always looking for new bricks and better ways to build.
+
+---
+
+### 🌱 What I'm currently learning or exploring:
+
+*   **[Kubernetes]**
+*   **[Django]**
+*   **[Terraform]**
+
+---
+
+### 📫 Connect with me
+
+*   **LinkedIn:** [www.linkedin.com/in/jabel-alvarez-acosta]
+*   **Email:** [jabel.alvarez.acosta@gmail.com]
+
+Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about tech!
+
+---
+
+<!-- You can add a profile view counter if you wish, though it's not necessary. -->
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue) -->
