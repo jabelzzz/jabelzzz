@@ -5,7 +5,7 @@ I'm a passionate **Sysadmin** and **Junior Python Developer** eager to learn and
 *   **LinkedIn:** www.linkedin.com/in/jabel-alvarez-acosta
 *   **Email:** jabel.alvarez.acosta@gmail.com
 *   **Website:** www.jabel.tech
-*   **Resume:** https://self.so/jabel-alvarez-acosta-ikp161
+*   **Resume:** www.self.so/jabel-alvarez-acosta-ikp161
 
 ---
 
